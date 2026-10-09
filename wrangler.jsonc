@@ -1,0 +1,8 @@
+{
+  // TODO: Confirm the Cloudflare Pages / Next.js deployment path before use.
+  // This file is a placeholder; nothing here has been deployed.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ferrara-bookkeeping-consulting-site",
+  "compatibility_date": "2025-01-01"
+  // TODO: Add build output directory and compatibility flags once the adapter is chosen.
+}
